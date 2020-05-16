@@ -26,7 +26,7 @@
     * Item 2a
     * Item 2b
 ### images
-![Googled Beach pic]()
+![Googled Beach pic](pacific.jpeg)
 ### links
 [Google](https://www.google.com/)
 ### blockquotes
