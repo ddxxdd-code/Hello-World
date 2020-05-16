@@ -28,7 +28,7 @@
 ### images
 ![Googled Beach pic]()
 ### links
-[Google](www.google.com)
+[Google](https://www.google.com/)
 ### blockquotes
 As John von Neumann said: 
 > With four parameters I can fit an elephant, \
