@@ -41,11 +41,13 @@ As John von Neumann said:
 - [ ] I don't know what's next xD.
 ### code
 c without highlighting
-    #include <stdio.h>
-    int main(int argc, char *argv[]) {
-        printf("hello world\n");
-        return 0;
-    }
+~~~
+#include <stdio.h>
+int main(int argc, char *argv[]) {
+    printf("hello world\n");
+    return 0;
+}
+~~~
 c 
 ~~~c
 #include <stdio.h>
