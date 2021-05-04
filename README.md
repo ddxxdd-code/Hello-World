@@ -4,7 +4,7 @@
   This is my first repo added to my account on github.\
   Hello World!\
   Hello :octocat:!\
-  As a first year uni student, this is my first repo!!!\
+  As a second year uni student, this is my first repo!!!\
   So excited!
 ## More
   In this section, I will use it as a practice of markdown.
